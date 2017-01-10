@@ -1,6 +1,6 @@
 # Data-Analysis-Nanodegree-CHN
 
-Projects(P2-P6) for Udacity's(优达学城) DAND.
+Projects for Udacity's(优达学城) DAND.
 
 Finished in Chinese.
 
