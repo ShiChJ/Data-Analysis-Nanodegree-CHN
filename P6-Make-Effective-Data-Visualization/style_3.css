@@ -1,0 +1,25 @@
+/* 将可视化图表居中 */
+
+h1{
+	text-align: center;
+	font-family: "Open Sans"; 
+}
+
+#bar{
+	display: block;
+	margin:0 auto;
+}
+
+#nlist{
+	display: block;
+	margin:0 auto	;
+	text-align: center;
+}
+
+text{
+	font-family: "Open Sans" !important;
+}
+
+text:first-letter{
+	text-transform: capitalize !important;
+}

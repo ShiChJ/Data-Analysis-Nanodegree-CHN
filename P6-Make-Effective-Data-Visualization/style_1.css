@@ -1,0 +1,16 @@
+/* 将可视化图表居中 */
+
+h1{
+	text-align: center;
+}
+
+svg{
+	display: block;
+	margin:0 auto;
+}
+
+#selectarea{
+	display: block;
+	margin:0 auto	;
+	text-align: center;
+}
